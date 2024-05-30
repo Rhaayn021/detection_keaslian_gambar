@@ -1,6 +1,6 @@
-Flask==2.0.3
-Keras==2.7.0
-Pillow==9.1.0
-numpy==1.22.3
-opencv-contrib-python-headless==4.5.5.64
-matplotlib==3.5.1
+Flask
+Keras
+Pillow
+numpy
+opencv-contrib-python-headless
+matplotlib
