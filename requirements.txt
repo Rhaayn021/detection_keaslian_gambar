@@ -2,5 +2,5 @@ Flask
 Keras
 Pillow
 numpy
-opencv-contrib-python-headless
+opencv
 matplotlib
